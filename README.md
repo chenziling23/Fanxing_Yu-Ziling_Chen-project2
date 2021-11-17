@@ -1,3 +1,16 @@
+Fanxing Yu and Ziling Chen work on write up together
+1. The most challenging part of this assignment is to randomize the position of the ships. Initially we set the position manually to test the functionality of the game. After we came up with the idea that we first identified the position for the head of the ship, and then used the Math.random() method to generate different random lengths of the consecutive squares and arrange them on the board, we realized the process. Beside the specific method, structuring the game also took us a lot of time. We separate the game into small components, each of the components achieve single functionality and are utilized by calling the method.
+2. Given more time, we would like to add a feature that allows users to drag and place the position by themselves to make this game more interactive and vivid. Besides, we also would like to record success hit rate for players and display on the left. Also, we want to improve AI intelligence to make the game more interesting. 
+3. We discussed the general structure at first and both worked on the coding part. We split the code part into small components and debug together. 
+4. We spent 1 week to complete this assignment.
+
+Additionally, in our design, we use red check marks as successful hits opponents’ ships, while red X represents miss.
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
