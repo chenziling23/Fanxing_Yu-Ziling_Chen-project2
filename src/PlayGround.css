@@ -1,0 +1,23 @@
+#play {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+#reset {
+  display: flex;
+  flex-direction: column;
+  margin-top: 50px;
+  text-align: center;
+}
+
+#free{
+  text-align: center;
+}
+
+@media (max-width: 576px) {
+  #play {
+  /* display: flex; */
+  flex-direction: column;
+  justify-content: space-around;
+}
+}

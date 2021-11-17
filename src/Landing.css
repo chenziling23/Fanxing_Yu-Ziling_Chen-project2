@@ -1,0 +1,20 @@
+button:hover {
+  font-weight: bolder;
+}
+button {
+  border: none;
+  text-align: center;
+  color: white;
+  background-color: transparent;
+  font-size: large;
+  font-weight: lighter;
+}
+.landing {
+  height: 100%;
+  width: 100%;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
